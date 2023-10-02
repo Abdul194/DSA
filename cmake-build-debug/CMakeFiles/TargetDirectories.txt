@@ -1,0 +1,3 @@
+C:/Users/arslan/CLionProjects/DSA-F22/cmake-build-debug/CMakeFiles/DSA_F22.dir
+C:/Users/arslan/CLionProjects/DSA-F22/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arslan/CLionProjects/DSA-F22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
